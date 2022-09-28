@@ -24,6 +24,7 @@ for x in 0..<n-1{
         }
     }
 }
+
 if (stop==0){
     print("-1")
 }
